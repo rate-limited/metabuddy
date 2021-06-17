@@ -1,6 +1,8 @@
 # MetaBuddy Backlog
 Public backlog for MetaBuddy - https://ratelimited.io/metabuddy
 
+![MetaBuddy image](assets/meta-buddy-masthead.webp)
+
 ## Overview 
 
 Simple meta file checking for Unity & git
