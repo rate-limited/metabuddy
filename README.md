@@ -9,6 +9,8 @@ Simple meta file checking for Unity & git
 
 MetaBuddy catches missing meta files, corrupted meta files, forgotten assets, modified GUIDs and more.
 
+## Backlog
+
 This repo contains a [public backlog](https://github.com/rate-limited/metabuddy/projects/1) under the "Projects" tab where all current and future development is tracked.
 
 ## Contribute
